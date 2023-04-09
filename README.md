@@ -1,2 +1,2 @@
 # python_tkinter_Gui
-UI interface make with python
+UI cours de conception d'interface graphique grace a la library tkinter.
